@@ -1,0 +1,49 @@
+﻿Build started 2/12/2020 8:45:32 PM.
+     1>Project "D:\Desktop-data\Visual Studio\Năm 2\Game_OOP\Cross\Cross.vcxproj" on node 2 (Build target(s)).
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\bin\x86_amd64\CL.exe /c /ZI /nologo /W3 /WX- /sdl /Od /D _CRT_SECURE_NO_WARNINGS /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"x64\Debug\\" /Fd"x64\Debug\vc140.pdb" /Gd /TP /errorReport:prompt Animal.cpp Bird.cpp Car.cpp Console.cpp Dinausor.cpp Game.cpp libs.cpp main.cpp People.cpp Random.cpp Redlight.cpp Truck.cpp Vehicle.cpp
+         Vehicle.cpp
+         Truck.cpp
+         Redlight.cpp
+         Random.cpp
+     1>d:\desktop-data\visual studio\năm 2\game_oop\cross\random.cpp(4): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+         People.cpp
+         main.cpp
+         libs.cpp
+         Game.cpp
+     1>d:\desktop-data\visual studio\năm 2\game_oop\cross\game.cpp(54): warning C4800: 'int': forcing value to bool 'true' or 'false' (performance warning)
+     1>d:\desktop-data\visual studio\năm 2\game_oop\cross\game.cpp(55): warning C4800: 'int': forcing value to bool 'true' or 'false' (performance warning)
+     1>d:\desktop-data\visual studio\năm 2\game_oop\cross\game.cpp(74): warning C4800: 'int': forcing value to bool 'true' or 'false' (performance warning)
+     1>d:\desktop-data\visual studio\năm 2\game_oop\cross\game.cpp(77): warning C4800: 'int': forcing value to bool 'true' or 'false' (performance warning)
+     1>d:\desktop-data\visual studio\năm 2\game_oop\cross\game.cpp(83): warning C4800: 'int': forcing value to bool 'true' or 'false' (performance warning)
+     1>d:\desktop-data\visual studio\năm 2\game_oop\cross\game.cpp(85): warning C4800: 'int': forcing value to bool 'true' or 'false' (performance warning)
+     1>d:\desktop-data\visual studio\năm 2\game_oop\cross\game.cpp(138): warning C4101: 'k': unreferenced local variable
+     1>d:\desktop-data\visual studio\năm 2\game_oop\cross\game.cpp(138): warning C4101: 'j': unreferenced local variable
+     1>d:\desktop-data\visual studio\năm 2\game_oop\cross\game.cpp(192): warning C4101: 'j': unreferenced local variable
+     1>d:\desktop-data\visual studio\năm 2\game_oop\cross\game.cpp(192): warning C4101: 'i': unreferenced local variable
+         Dinausor.cpp
+         Console.cpp
+         Car.cpp
+         Bird.cpp
+         Animal.cpp
+         Generating Code...
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\bin\x86_amd64\link.exe /ERRORREPORT:PROMPT /OUT:"D:\Desktop-data\Visual Studio\Năm 2\Game_OOP\x64\Debug\Cross.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /Debug /PDB:"D:\Desktop-data\Visual Studio\Năm 2\Game_OOP\x64\Debug\Cross.pdb" /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"D:\Desktop-data\Visual Studio\Năm 2\Game_OOP\x64\Debug\Cross.lib" /MACHINE:X64 x64\Debug\Animal.obj
+         x64\Debug\Bird.obj
+         x64\Debug\Car.obj
+         x64\Debug\Console.obj
+         x64\Debug\Dinausor.obj
+         x64\Debug\Game.obj
+         x64\Debug\libs.obj
+         x64\Debug\main.obj
+         x64\Debug\People.obj
+         x64\Debug\Random.obj
+         x64\Debug\Redlight.obj
+         x64\Debug\Truck.obj
+         x64\Debug\Vehicle.obj
+         Cross.vcxproj -> D:\Desktop-data\Visual Studio\Năm 2\Game_OOP\x64\Debug\Cross.exe
+     1>Done Building Project "D:\Desktop-data\Visual Studio\Năm 2\Game_OOP\Cross\Cross.vcxproj" (Build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:11.60
